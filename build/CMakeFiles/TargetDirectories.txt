@@ -1,0 +1,8 @@
+/home/chris/Learn2Code/How2CMakeGood/build/CMakeFiles/edit_cache.dir
+/home/chris/Learn2Code/How2CMakeGood/build/CMakeFiles/rebuild_cache.dir
+/home/chris/Learn2Code/How2CMakeGood/build/say-hello/CMakeFiles/say-hello.dir
+/home/chris/Learn2Code/How2CMakeGood/build/say-hello/CMakeFiles/edit_cache.dir
+/home/chris/Learn2Code/How2CMakeGood/build/say-hello/CMakeFiles/rebuild_cache.dir
+/home/chris/Learn2Code/How2CMakeGood/build/hello-exe/CMakeFiles/cmake-good.dir
+/home/chris/Learn2Code/How2CMakeGood/build/hello-exe/CMakeFiles/edit_cache.dir
+/home/chris/Learn2Code/How2CMakeGood/build/hello-exe/CMakeFiles/rebuild_cache.dir
